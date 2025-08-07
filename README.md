@@ -6,7 +6,7 @@
 3) Convert tensors from .pt format to .npz using "PT-to-NPZ" script.
 
 ## Using Model to Inference
-1) Follow the steps outlined in the Jupyter notebook Model-Test, making sure to update the file paths for the HRV model, Transformer model, HRV CSV, and participant tensor.
+1) Follow the steps outlined in the Jupyter notebook "Model-Test", making sure to update the file paths for the HRV model, Transformer model, HRV CSV, and participant tensor.
 2) Run inference.
 
 This repository is representative of the work carried out as part of a third year udergraduate dissertation on sleep TimeSformers by Andreas Tsouras.
