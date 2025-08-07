@@ -1,5 +1,9 @@
 # Sleep-Model-Test
 
+## Preliminary File Preparation
+1) Convert HRV data from txt to csv using the "TXT-to-CSV" code provided.
+2) Create mask around bed frame of participant using either a custom segmentation script or manually inputing corners of badframe into "tensor-creation"
+
 This repository is representative of the work carried out as part of a third year udergraduate dissertation on sleep TimeSformers by Andreas Tsouras.
 
 © Andreas Tsouras, 2025. All rights reserved.
